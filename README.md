@@ -1,0 +1,1 @@
+This repository contains scripts to train neural networks models to predict the maximum rotatory strenght in halogenated [6]helicenes. The dataset is generated with DFT calculations.
